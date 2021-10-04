@@ -1,0 +1,39 @@
+.home-container {
+  padding: 80px;
+}
+.home-left img {
+  width: 90%;
+}
+.home-right {
+  font-size: 18px;
+  width: 80%;
+  color: white;
+}
+.glow {
+  color: #fff;
+  text-shadow: 0 0 7px #005000, 0 0 10px #084100, 0 0 21px #91ff8d,
+    0 0 42px #0fa, 0 0 82px #0fa, 0 0 92px #00593b, 0 0 102px #00291c,
+    0 0 151px #000000;
+}
+.service-secttion {
+  margin-top: 90px;
+}
+.about-section {
+  display: flex;
+  margin-top: 90px;
+  justify-content: space-around;
+}
+.about-left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  margin-right: 90px;
+}
+.about-left div h1 {
+  color: #005000;
+  font-size: 38px;
+}
+.about-right img {
+  width: 350px;
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "image": "https://raw.githubusercontent.com/NH-Shohan/website-image/main/yogaService/1.jpg",
+    "serviceName": "Kundalini Yoga",
+    "details": "Kundalini yoga is a form of yoga that involves chanting, singing, breathing exercises, and repetitive poses.",
+    "price": 100,
+    "key": 1
+  },
+  {
+    "id": 2,
+    "image": "https://raw.githubusercontent.com/NH-Shohan/website-image/main/yogaService/2.jpg",
+    "serviceName": "Bikram Yoga",
+    "details": "Bikram Yoga is a system of hot yoga, a type of yoga as exercise, devised by Bikram Choudhury and based on the writings of B. C. Ghosh, that became popular in the early 1970s.",
+    "price": 150,
+    "key": 2
+  },
+  {
+    "id": 3,
+    "image": "https://raw.githubusercontent.com/NH-Shohan/website-image/main/yogaService/3.jpg",
+    "serviceName": "Nutrition Consultation",
+    "details": "Nutrition Consultations Help Foster Health And Harmony based on the assessment, we'll work together to evaluate the role that food plays in your life",
+    "price": 110,
+    "key": 3
+  },
+  {
+    "id": 4,
+    "image": "https://raw.githubusercontent.com/NH-Shohan/website-image/main/yogaService/4.jpg",
+    "serviceName": "Hatha Yoga",
+    "details": "Haṭha yoga is a branch of yoga. The Sanskrit word हठ haṭha literally means 'force' and thus alludes to a system of physical techniques.",
+    "price": 190,
+    "key": 4
+  },
+  {
+    "id": 5,
+    "image": "https://raw.githubusercontent.com/NH-Shohan/website-image/main/yogaService/5.jpg",
+    "serviceName": "Prenatal Yoga",
+    "details": "Learn Yoga Asanas & Meditation Commit To Your Health. Join Now ! Learn Yoga At Home Now ! Free Online Yoga Classes. Learn Yoga Online Free ! Free Trial Class.",
+    "price": 120,
+    "key": 5
+  },
+  {
+    "id": 6,
+    "image": "https://raw.githubusercontent.com/NH-Shohan/website-image/main/yogaService/6.jpg",
+    "serviceName": "Meditation",
+    "details": "Essentially, meditation is a part of yoga, which is mostly performed after Yoga asana practice. After you have done Yoga, the body is filled with vibrations.",
+    "price": 180,
+    "key": 6
+  },
+  {
+    "id": 7,
+    "image": "https://raw.githubusercontent.com/NH-Shohan/website-image/main/yogaService/7.jpg",
+    "serviceName": "Power Yoga",
+    "details": "Power Yoga is any of several forms of energetic vinyasa-style yoga as exercise developed in America in the 1990s.",
+    "price": 130,
+    "key": 7
+  },
+  {
+    "id": 8,
+    "image": "https://raw.githubusercontent.com/NH-Shohan/website-image/main/yogaService/8.jpg",
+    "serviceName": "Kids Yoga",
+    "details": "Yoga improves balance, strength, endurance, and aerobic capacity in children. A growing body of research has already shown that yoga can improve focus.",
+    "price": 170,
+    "key": 8
+  },
+  {
+    "id": 9,
+    "image": "https://raw.githubusercontent.com/NH-Shohan/website-image/main/yogaService/9.jpg",
+    "serviceName": "Pregnancy Yoga",
+    "details": "The best time to start yoga if you've never done it before is in the second trimester, after about 14 weeks.",
+    "price": 160,
+    "key": 9
+  }
+]

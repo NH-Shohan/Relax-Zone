@@ -1,0 +1,14 @@
+.footer {
+  background-color: rgb(6, 24, 0);
+  color: white;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+.contact {
+  padding: 10px;
+  display: flex;
+}
+.contact img {
+  margin-left: 20px;
+}
