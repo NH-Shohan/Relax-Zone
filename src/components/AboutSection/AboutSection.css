@@ -1,0 +1,12 @@
+.aboutyoga {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  background-color: aliceblue;
+  margin: 30px;
+  padding: 10px;
+  border-radius: 15px;
+  box-shadow: 1px 1px 10px black;
+}
+.about-image img {
+  width: 150px;
+}

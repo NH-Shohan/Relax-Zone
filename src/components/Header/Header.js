@@ -11,6 +11,7 @@ const Header = () => {
   const [value, setValue] = React.useState(0);
 
   const history = useHistory();
+  console.log(history);
   const handleChange = (event, newValue) => {
     setValue(newValue);
   };

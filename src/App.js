@@ -4,10 +4,10 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Home from "./components/Home/Home";
 import Service from "./components/Service/Service";
 import { Container } from "@mui/material";
-import About from "./components/About/About";
 import Footer from "./components/Footer/Footer";
 import Instructors from "./components/Instructors/Instructors";
 import NotFound from "./components/NotFound/NotFound";
+import AboutSection from "./components/AboutSection/AboutSection";
 
 function App() {
   return (
@@ -25,7 +25,7 @@ function App() {
                 <Home></Home>
               </Route>
               <Route path="/about">
-                <About></About>
+                <AboutSection></AboutSection>
               </Route>
               <Route path="/service">
                 <Service></Service>
