@@ -20,8 +20,10 @@ const Header = () => {
       setValue(2);
     } else if (history.location.pathname === "/instructors") {
       setValue(3);
-    } else {
+    } else if (history.location.pathname === "/contact") {
       setValue(4);
+    } else {
+      setValue(0);
     }
   }, [value, history.location.pathname]);
   const handleChange = (event, newValue) => {
