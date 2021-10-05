@@ -13,7 +13,6 @@ const AboutSection = () => {
   return (
     <div>
       <div>
-        {/* <AboutYoga>hello</AboutYoga> */}
         <div>
           {about.map((single) => (
             <AboutYoga>
@@ -22,16 +21,16 @@ const AboutSection = () => {
                   <div className="about-image">
                     <img src={single.image} alt="" />
                   </div>
-                  <div className="col-md-6">
-                    <h3>{single.title}</h3>
-                    <p className="col-md-6">{single.details}</p>
+                  <div className="about-details">
+                    <h1>{single.title}</h1>
+                    <p className="">{single.details}</p>
                   </div>
                 </div>
               ) : (
                 <div className="aboutyoga">
-                  <div className="col-md-6">
-                    <h3>{single.title}</h3>
-                    <p className="col-md-6">{single.details}</p>
+                  <div className="about-details">
+                    <h1>{single.title}</h1>
+                    <p className="">{single.details}</p>
                   </div>
                   <div className="about-image">
                     <img src={single.image} alt="" />

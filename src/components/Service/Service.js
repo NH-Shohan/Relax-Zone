@@ -23,14 +23,14 @@ const Service = (props) => {
     <div className="service-container">
       <h1>Our Best Services</h1>
       <div className="services">
-        {service.map((ser) => (
+        {service.map((service) => (
           <Card
             sx={{
               maxWidth: 350,
               minHeight: 200,
             }}
           >
-            <SetService key={ser.key} service={ser}></SetService>
+            <SetService key={service.key} service={service}></SetService>
           </Card>
         ))}
       </div>

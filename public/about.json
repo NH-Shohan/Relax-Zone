@@ -8,17 +8,17 @@
   },
   {
     "id": 2,
-    "title": "Brynna Malitrott",
-    "image": "https://ouch-cdn2.icons8.com/cqkEF2Vxxryk-iR_2BraNGFrnVkVDlfQWHoA6DfpQPs/rs:fit:784:784/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMTA1/L2M0YmU0YmY3LWU2/N2QtNGU5NS1hNDEz/LTBlZGVjMjZiYzAy/NS5wbmc.png",
-    "details": "Meditation is like a gym in which you develop the powerful mental muscles of calm and insight.",
-    "side": false
-  },
-  {
-    "id": 3,
     "title": "Support Service",
     "image": "https://ouch-cdn2.icons8.com/lR4HUrN0pFwr0D_GRcCKdsV9hWosqciqVtSWQCNetTI/rs:fit:784:971/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNzQv/MDZkZTA3ODgtYmIy/Yi00NGViLWFiMWQt/NWQ2ZGJhMDdlNzE3/LnBuZw.png",
     "details": "In the same way that rain breaks into a house with a bad roof, desire breaks into the mind that has not been practicing meditation.",
     "side": true
+  },
+  {
+    "id": 3,
+    "title": "Join a new world",
+    "image": "https://ouch-cdn2.icons8.com/WnNnvP_K0qafsyn3R5iGUhQPyaTgnwIrpN8NgqR0Ff8/rs:fit:784:957/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNjI1/LzdiNzBmODkxLWNi/ZTUtNDYyOS1iOTU1/LTNkNDY2MmJkOGNh/Mi5wbmc.png",
+    "details": "Meditation is like a gym in which you develop the powerful mental muscles of calm and insight.",
+    "side": false
   },
   {
     "id": 4,

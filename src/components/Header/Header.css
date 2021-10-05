@@ -1,19 +1,21 @@
+/* header section */
 .header-container {
+  z-index: 1;
   position: sticky;
   top: 0;
   width: 100%;
-  z-index: 1;
-}
-.header {
-  border-bottom-left-radius: 10px;
-  border-bottom-right-radius: 10px;
-  background-color: #004100aa;
-  display: flex;
-  justify-content: space-between;
-  padding: 10px;
+  padding: 10px 0;
   padding-bottom: 0;
   box-shadow: 1px 1px 7px #ffffff30;
+  backdrop-filter: blur(3px);
+  background-color: #004100aa;
 }
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* header image section */
 .header div img {
   width: 50px;
   border-radius: 50px;

@@ -1,8 +1,12 @@
 import React from "react";
-import "./NotFound.css";
+import image from "../../images/NotFound.gif";
 
 const NotFound = () => {
-  return <div className="NotFound"></div>;
+  return (
+    <div className="NotFound">
+      <img src={image} alt="" />
+    </div>
+  );
 };
 
 export default NotFound;

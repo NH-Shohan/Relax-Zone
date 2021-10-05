@@ -1,3 +1,4 @@
+/* app section */
 .App {
   text-align: center;
 }
@@ -6,10 +7,4 @@
   margin: 0;
   color: #fff;
   padding: 5px 0;
-}
-.background {
-  height: 100vh;
-  background-image: url("./images/background-img.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
 }

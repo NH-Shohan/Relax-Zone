@@ -1,6 +1,6 @@
+/* service section */
 .services {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 20px;
-  /* background-color: #d8e591; */
 }

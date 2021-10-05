@@ -1,0 +1,19 @@
+.container {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+}
+.contact-container {
+  background-color: #e8ffe88a;
+  height: 420px;
+  width: 80%;
+  border-radius: 20px;
+  box-shadow: 2px 2px 5px gray;
+}
+.contact-container h1 {
+  color: #005500;
+}
+.text-aria {
+  width: 620px !important;
+}

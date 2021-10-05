@@ -1,5 +1,24 @@
+/* service container */
 .services-container {
+  margin: 20px;
+}
+
+/* card section style */
+.card {
+  height: 430px;
+  box-shadow: 1px 1px 10px gray;
+  border-radius: 15px;
+  padding: 10px;
+}
+.card:hover {
+  background: #78ff7871;
+  transition: 1s;
+  cursor: pointer;
+}
+.card-image img {
   border-radius: 10px;
-  box-shadow: 1px 1px 5px #414141;
-  background-color: #fff;
+  width: 100%;
+}
+.card-details {
+  text-align: center;
 }

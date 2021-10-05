@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../../images/logo.jpg";
+import logo from "../../images/logo.png";
 import "./Header.css";
 import Box from "@mui/material/Box";
 import Tabs from "@mui/material/Tabs";
@@ -11,7 +11,19 @@ const Header = () => {
   const [value, setValue] = React.useState(0);
 
   const history = useHistory();
-  console.log(history);
+  React.useEffect(() => {
+    if (history.location.pathname === "/home") {
+      setValue(0);
+    } else if (history.location.pathname === "/about") {
+      setValue(1);
+    } else if (history.location.pathname === "/service") {
+      setValue(2);
+    } else if (history.location.pathname === "/instructors") {
+      setValue(3);
+    } else {
+      setValue(4);
+    }
+  }, [value, history.location.pathname]);
   const handleChange = (event, newValue) => {
     setValue(newValue);
   };
@@ -56,6 +68,13 @@ const Header = () => {
                   label="Instructors"
                   onClick={() => {
                     history.push("/instructors");
+                  }}
+                  sx={{ color: "background.paper" }}
+                />
+                <Tab
+                  label="Contact"
+                  onClick={() => {
+                    history.push("/contact");
                   }}
                   sx={{ color: "background.paper" }}
                 />
