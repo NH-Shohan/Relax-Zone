@@ -1,7 +1,7 @@
 # RelaxZone
 
 ### [Assignment Repo link](https://github.com/ProgrammingHeroWC4/review-website-NH-Shohan)
-### [Live link]()
+### [Live link](https://relax-zone.netlify.app/)
 
 - This is a website where you can lear Yoga
 - I have Udes:
